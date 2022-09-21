@@ -1,0 +1,26 @@
+.bet-more, .btn-rounded {
+  width: 100%;
+  height: 30%;
+  border: none;
+  background: linear-gradient(top, top, black, white);
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  color: red;
+}
+.bet-more:hover, .btn-rounded:hover {
+  background: linear-gradient(top, top, black, white);
+}
+
+.btn-rounded {
+  border-radius: 3px;
+}
+
+p {
+  font-size: 2em;
+  line-height: 2.2em;
+  color: black;
+  margin: 10px 30px;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}/*# sourceMappingURL=mixin.css.map */

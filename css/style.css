@@ -1,58 +1,55 @@
-h5{
-color: white;
-background-color:black;
+h5 {
+  color: white;
+  background-color: black;
 }
 
-.rojito{
-    background-color: rgb(222, 14, 52);
+.rojito {
+  background-color: rgb(222, 14, 52);
 }
 
-.red{
-
-    background-color:red;
+.red {
+  background-color: red;
 }
 
-.form-check-label{
-    color:white;
+.form-check-label {
+  color: white;
 }
 
-.form-label{
-    color:white;
-
+.form-label {
+  color: white;
 }
 
-.carousel{
-margin: auto;
-width: 60%;
+.carousel {
+  margin: auto;
+  width: 60%;
 }
 
-#contacto{
-color: white;
-background-color:black;
-text-align: center;
+#contacto {
+  color: white;
+  background-color: black;
+  text-align: center;
 }
 
-#donbosco{
-color: white;
-background-color:black;
-text-align: center;
+#donbosco {
+  color: white;
+  background-color: black;
+  text-align: center;
 }
 
-#emailHelp{
-    color: white;
+#emailHelp {
+  color: white;
 }
 
-.card-text{
-    text-align: center;
+.card-text {
+  text-align: center;
 }
 
-.card-title{
-    text-align: center;
+.card-title {
+  text-align: center;
 }
 
-.somos{
-    color: white;
-    background-color:black;
-    text-align: center;
-
-}
+.somos {
+  color: white;
+  background-color: black;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */

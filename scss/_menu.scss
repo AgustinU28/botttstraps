@@ -1,0 +1,65 @@
+$fondos:red;
+$letras:white;
+$defondos:black;
+
+
+h5{
+    color: white;
+    background-color:$defondos;
+    }
+    
+    .rojito{
+        background-color: rgb(222, 14, 52);
+       
+    }
+    
+    .red{
+    
+        background-color:$fondos;
+    }
+    
+    .form-check-label{
+        color:$letras;
+    }
+    
+    .form-label{
+        color:$letras;
+    
+    }
+    
+    .carousel{
+    margin: auto;
+    width: 60%;
+    }
+    
+    #contacto{
+    color: $letras;
+    background-color:$defondos;
+    text-align: center;
+    }
+    
+    #donbosco{
+    color: $letras;
+    background-color:$defondos;
+    text-align: center;
+    }
+    
+    #emailHelp{
+        color: $letras;
+    }
+    
+    .card-text{
+        text-align: center;
+    }
+    
+    .card-title{
+        text-align: center;
+    }
+    
+    .somos{
+        color: $letras;
+        background-color:$defondos;
+        text-align: center;
+    
+    }
+    
